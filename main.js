@@ -122,7 +122,7 @@ let ring = new THREE.Mesh(geometry,material);
 ring.material = createRingMaterial({ color: 0xB08040});
 planet3.add(ring);
 //needs complition
-
+//testing git commit
 // TODO: Create Planet 4: Soft Light Blue Planet
 geometry = new THREE.SphereGeometry(1,16,16);
 material = new THREE.MeshPhongMaterial({ 
