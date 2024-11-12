@@ -252,4 +252,5 @@ If you have any questions or need clarification on the assignment, please reach 
 
 Good luck and have fun exploring the world of shaders and 3D animation in Three.js!#   S o l a r - B r u i n - S y s t e m  
  #   S p a c e - J a m  
+ #   S p a c e - J a m  
  
